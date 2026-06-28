@@ -47,7 +47,7 @@ FunciónQué hacesolucion()Lee la expresión carácter a carácter y separa núm
 Solo trabaja con números enteros (no decimales)
 La división devuelve solo el cociente entero (sin resto)
 No soporta paréntesis en las expresiones
-Los números negativos de múltiples dígitos pueden tener comportamiento inesperado
+
 
 
 
