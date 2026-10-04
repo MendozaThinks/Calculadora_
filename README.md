@@ -29,17 +29,6 @@ El resultado de 10+5*2 es 20
 Para salir, escribí salir y presioná Enter.
 
 
-📌 Ejemplos de uso
-
-ExpresiónResultado5+3810-4*22100/5+323-5+1056*-2-12
-
-
-⚙️ Cómo funciona internamente
-
-El programa tiene varias funciones con responsabilidades separadas:
-
-FunciónQué hacesolucion()Lee la expresión carácter a carácter y separa números y operadoresresolver_expresion()Aplica primero * y /, luego + y -resolver_operacion()Llama a la función correcta según el operadorsuma() / resta()Operaciones básicas con Pythonmultiplicacion()Multiplica sumando repetidamente (sin usar *)division()Divide restando repetidamente (sin usar /)concatenar_numero()Construye un número dígito a dígitoverificar_operador()Verifica si un carácter es +, -, * o /verificar_es_numero()Verifica si un carácter (o símbolo) es un número
-
 
 ⚠️ Limitaciones actuales
 
